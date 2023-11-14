@@ -1,0 +1,1107 @@
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the
+degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+ans =
+
+     1     2     3     4     5     6     7    10    11
+    21    24     2     1    15    14     1     5     1
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce
+the degree of the polynomial, or try centering and scaling as described in HELP
+POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+best_subrgn =
+
+  Columns 1 through 14
+
+     1     1     5     1     1     1     2     5     5     5     1     5     2     4
+
+  Columns 15 through 28
+
+     5     2     2     2     5     3     2     3     1     1     2     2     2     2
+
+  Columns 29 through 42
+
+     5     5     5     1     5     1     6     1     1     1     2     6     2     6
+
+  Columns 43 through 56
+
+     2     1     1     1     1     2     2     6     5     1     5     6     6    10
+
+  Columns 57 through 70
+
+     6     6     1     5     6     1     2     2    10    10     6     2    10     5
+
+  Columns 71 through 84
+
+     6    11     2     2    10     6     6     7     2     2     1     2     6     2
+
+
+ans =
+
+     1     2     3     4     5     6     7    10    11
+    21    24     2     1    15    14     1     5     1
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the
+degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+{Arrays have incompatible sizes for this operation.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 110)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',110,0)">line 110</a>)
+    APS_final = APS_array(find(least_diff_of_best_subrgn == dist_diff_avg,'first'),:);
+
+<a href="matlab:helpview('matlab','error_sizeDimensionsMustMatch')" style="font-weight:bold">Related documentation</a>
+} 
+find(b == dist_diff_avg)
+{Unrecognized function or variable 'b'.
+} 
+dist_diff_avg)
+ dist_diff_avg)
+              ↑
+{Invalid expression. When calling a function or indexing a variable, use parentheses.
+Otherwise, check for mismatched delimiters.
+} 
+dist_diff_avg
+
+dist_diff_avg =
+
+  Columns 1 through 8
+
+   32.8308   34.9899   48.9668   33.8116   31.3587   34.3066   35.7390   35.1376
+
+  Columns 9 through 16
+
+   44.1477   33.9997   34.9656   34.9079   37.4989   40.4215   39.5029   34.8106
+
+  Columns 17 through 24
+
+   36.2206   28.4391   48.5130   37.7088   42.6206   33.9841   35.9464   38.8943
+
+  Columns 25 through 32
+
+   38.2523   35.0576   27.2761   28.6861   33.2982   42.3083   32.1602   31.7292
+
+  Columns 33 through 40
+
+   33.0685   38.6909   45.0715   36.3412   33.8883   36.8362   36.0885   44.7751
+
+  Columns 41 through 48
+
+   48.8599   45.9307   42.4884   32.7100   35.6579   39.6717   33.2051   34.9254
+
+  Columns 49 through 56
+
+   36.3355   34.9167   32.8443   37.4951   33.7526   37.6477   34.6204   41.0022
+
+  Columns 57 through 64
+
+   35.7760   35.0700   36.3168   32.6146   37.3513   36.8119   36.6853   38.0954
+
+  Columns 65 through 72
+
+   33.8583   35.8267   36.0046   35.1885   36.0262   38.1179   37.5799   35.1578
+
+  Columns 73 through 80
+
+   27.6256   29.0356   36.4969   35.7082   35.0022   33.3032   34.0255   35.4356
+
+  Columns 81 through 84
+
+   37.7927   37.4388   38.4391   27.8726
+
+sort(dist_diff_avg)
+
+ans =
+
+  Columns 1 through 8
+
+   27.2761   27.6256   27.8726   28.4391   28.6861   29.0356   31.3587   31.7292
+
+  Columns 9 through 16
+
+   32.1602   32.6146   32.7100   32.8308   32.8443   33.0685   33.2051   33.2982
+
+  Columns 17 through 24
+
+   33.3032   33.7526   33.8116   33.8583   33.8883   33.9841   33.9997   34.0255
+
+  Columns 25 through 32
+
+   34.3066   34.6204   34.8106   34.9079   34.9167   34.9254   34.9656   34.9899
+
+  Columns 33 through 40
+
+   35.0022   35.0576   35.0700   35.1376   35.1578   35.1885   35.4356   35.6579
+
+  Columns 41 through 48
+
+   35.7082   35.7390   35.7760   35.8267   35.9464   36.0046   36.0262   36.0885
+
+  Columns 49 through 56
+
+   36.2206   36.3168   36.3355   36.3412   36.4969   36.6853   36.8119   36.8362
+
+  Columns 57 through 64
+
+   37.3513   37.4388   37.4951   37.4989   37.5799   37.6477   37.7088   37.7927
+
+  Columns 65 through 72
+
+   38.0954   38.1179   38.2523   38.4391   38.6909   38.8943   39.5029   39.6717
+
+  Columns 73 through 80
+
+   40.4215   41.0022   42.3083   42.4884   42.6206   44.1477   44.7751   45.0715
+
+  Columns 81 through 84
+
+   45.9307   48.5130   48.8599   48.9668
+
+sort(dist_diff_avg)(1)
+{Error:  Invalid array indexing.
+} 
+sort(dist_diff_avg)[1]
+ sort(dist_diff_avg)[1]
+                    ↑
+{Invalid expression. When calling a function or indexing a variable, use parentheses.
+Otherwise, check for mismatched delimiters.
+} 
+sort(dist_diff_avg)[1]
+ sort(dist_diff_avg)[1]
+                    ↑
+{Invalid expression. When calling a function or indexing a variable, use parentheses.
+Otherwise, check for mismatched delimiters.
+} 
+cell_free_positioning
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce
+the degree of the polynomial, or try centering and scaling as described in HELP
+POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+best_subrgn_final =
+
+     2
+
+
+best_subrgn_indices =
+
+  Columns 1 through 14
+
+     7    13    16    17    18    21    25    26    27    28    39    41    43    48
+
+  Columns 15 through 24
+
+    49    63    64    68    73    74    79    80    82    84
+
+
+least_diff_of_best_subrgn =
+
+  Columns 1 through 8
+
+   27.2761   27.6256   27.8726   28.4391   28.6861   29.0356   34.0255   34.8106
+
+  Columns 9 through 16
+
+   34.9254   35.0576   35.1885   35.4356   35.7390   36.0885   36.2206   36.3355
+
+  Columns 17 through 24
+
+   36.6853   37.4388   37.4989   38.0954   38.2523   42.4884   42.6206   48.8599
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('find')" style="font-weight:bold">find</a>
+Second argument must be a positive scalar integer.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 110)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',110,0)">line 110</a>)
+    APS_final = APS_array(find(dist_diff_avg == least_diff_of_best_subrgn(1),'first'),:);
+} 
+least_diff_of_best_subrgn(1)
+
+ans =
+
+   27.2761
+
+least_diff_of_best_subrgn(1)
+
+ans =
+
+   27.2761
+
+cell_free_positioning
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce
+the degree of the polynomial, or try centering and scaling as described in HELP
+POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+best_subrgn_final =
+
+     2
+
+
+best_subrgn_indices =
+
+  Columns 1 through 14
+
+     7    13    16    17    18    21    25    26    27    28    39    41    43    48
+
+  Columns 15 through 24
+
+    49    63    64    68    73    74    79    80    82    84
+
+
+least_diff_of_best_subrgn =
+
+  Columns 1 through 8
+
+   27.2761   27.6256   27.8726   28.4391   28.6861   29.0356   34.0255   34.8106
+
+  Columns 9 through 16
+
+   34.9254   35.0576   35.1885   35.4356   35.7390   36.0885   36.2206   36.3355
+
+  Columns 17 through 24
+
+   36.6853   37.4388   37.4989   38.0954   38.2523   42.4884   42.6206   48.8599
+
+
+ans =
+
+     1     2     3     4     5     6     7    10    11
+    21    24     2     1    15    14     1     5     1
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce
+the degree of the polynomial, or try centering and scaling as described in HELP
+POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+best_subrgn_final =
+
+     2
+
+
+best_subrgn_indices =
+
+  Columns 1 through 14
+
+     7    13    16    17    18    21    25    26    27    28    39    41    43    48
+
+  Columns 15 through 24
+
+    49    63    64    68    73    74    79    80    82    84
+
+
+least_diff_of_best_subrgn =
+
+  Columns 1 through 8
+
+   27.2761   27.6256   27.8726   28.4391   28.6861   29.0356   34.0255   34.8106
+
+  Columns 9 through 16
+
+   34.9254   35.0576   35.1885   35.4356   35.7390   36.0885   36.2206   36.3355
+
+  Columns 17 through 24
+
+   36.6853   37.4388   37.4989   38.0954   38.2523   42.4884   42.6206   48.8599
+
+
+ans =
+
+     1     2     3     4     5     6     7    10    11
+    21    24     2     1    15    14     1     5     1
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce
+the degree of the polynomial, or try centering and scaling as described in HELP
+POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+TP_idx =
+
+     1
+
+
+ans = 
+
+  1×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "Repeat_count"    "21"    "24"    "2"    "1"    "15"    "14"    "1"    "5"    "1"
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the
+degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+TP_idx =
+
+     1
+
+
+ans = 
+
+  2×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"          "1"     "2"     "3"    "4"    "5"     "6"     "7"    "10"    "11"
+    "Repeat_count"    "21"    "24"    "2"    "1"    "15"    "14"    "1"    "5"     "1" 
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce
+the degree of the polynomial, or try centering and scaling as described in HELP
+POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+TP_idx =
+
+     1
+
+
+ans = 
+
+  2×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+  Columns 1 through 9
+
+    "subrgn"          "1"     "2"     "3"    "4"    "5"     "6"     "7"    "10"
+    "Repeat_count"    "21"    "24"    "2"    "1"    "15"    "14"    "1"    "5" 
+
+  Column 10
+
+    "11"
+    "1" 
+
+
+selected_subrgn =
+
+     2
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the
+degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+TP_idx =
+
+     1
+
+
+ans = 
+
+  2×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"     "2"     "3"    "4"    "5"     "6"     "7"    "10"    "11"
+    "rpt_cnt"    "21"    "24"    "2"    "1"    "15"    "14"    "1"    "5"     "1" 
+
+
+selected_subrgn =
+
+     2
+
+err_avg = 3.759565e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the
+degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+TP_idx =
+
+     1
+
+
+ans = 
+
+  2×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"     "2"     "3"    "4"    "5"     "6"     "7"    "10"    "11"
+    "rpt_cnt"    "21"    "24"    "2"    "1"    "15"    "14"    "1"    "5"     "1" 
+
+
+selected_subrgn =
+
+     2
+
+
+TP_idx =
+
+     2
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"     "3"    "5"    "6"     "11"    "14"
+    "rpt_cnt"    "1"    "12"    "1"    "1"    "67"    "1"     "1" 
+
+
+selected_subrgn =
+
+     6
+
+
+TP_idx =
+
+     3
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"     "3"     "4"     "7"     "8"    "11"
+    "rpt_cnt"    "1"    "12"    "37"    "15"    "11"    "7"    "1" 
+
+
+selected_subrgn =
+
+     3
+
+
+TP_idx =
+
+     4
+
+
+ans = 
+
+  2×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "3"    "4"     "5"    "11"    "12"    "14"    "15"    "16"
+    "rpt_cnt"    "3"    "2"    "64"    "1"    "1"     "4"     "1"     "5"     "3" 
+
+
+selected_subrgn =
+
+     4
+
+
+TP_idx =
+
+     5
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"    "5"     "6"    "9"     "10"    "14"
+    "rpt_cnt"    "3"    "4"    "47"    "8"    "20"    "1"     "1" 
+
+
+selected_subrgn =
+
+     5
+
+
+TP_idx =
+
+     6
+
+
+ans = 
+
+  2×9 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"    "5"     "6"     "7"    "9"    "10"    "11"
+    "rpt_cnt"    "4"    "1"    "19"    "45"    "4"    "1"    "7"     "3" 
+
+
+selected_subrgn =
+
+     6
+
+
+TP_idx =
+
+     7
+
+
+ans = 
+
+  2×6 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "3"    "6"     "7"     "10"    "11"
+    "rpt_cnt"    "2"    "12"    "33"    "5"     "32"
+
+
+selected_subrgn =
+
+     7
+
+
+TP_idx =
+
+     8
+
+
+ans = 
+
+  2×7 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "4"    "8"    "11"    "12"    "15"    "16"
+    "rpt_cnt"    "3"    "6"    "1"     "58"    "3"     "13"
+
+
+selected_subrgn =
+
+    12
+
+
+TP_idx =
+
+     9
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "5"    "9"     "10"    "11"    "13"    "14"
+    "rpt_cnt"    "1"    "3"    "37"    "23"    "1"     "16"    "3" 
+
+
+selected_subrgn =
+
+     9
+
+
+TP_idx =
+
+    10
+
+
+ans = 
+
+  2×6 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "6"     "7"    "10"    "11"
+    "rpt_cnt"    "1"    "10"    "2"    "69"    "2" 
+
+
+selected_subrgn =
+
+    10
+
+err_avg = 1.532680e+01
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+[Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the
+degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polyfit', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m', 84)" style="font-weight:bold">polyfit</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\polyfun\polyfit.m',84,0)">line 84</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('polynomial_regression', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m', 22)" style="font-weight:bold">polynomial_regression</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\polynomial_regression.m',22,0)">line 22</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cell_free_positioning', 'C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m', 61)" style="font-weight:bold">cell_free_positioning</a> (<a href="matlab: opentoline('C:\Users\kmani\OneDrive\Desktop\PositioningPaper\simulations_poly_regression\cell_free_positioning.m',61,0)">line 61</a>)] 
+polyfit err_avg = 2.401801e-02
+
+APS_size =
+
+     3
+
+
+TP_idx =
+
+     1
+
+
+ans = 
+
+  2×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"     "2"     "3"    "4"    "5"     "6"     "7"    "10"    "11"
+    "rpt_cnt"    "21"    "24"    "2"    "1"    "15"    "14"    "1"    "5"     "1" 
+
+
+selected_subrgn =
+
+     2
+
+==================================
+TP_idx =
+
+     2
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"     "3"    "5"    "6"     "11"    "14"
+    "rpt_cnt"    "1"    "12"    "1"    "1"    "67"    "1"     "1" 
+
+
+selected_subrgn =
+
+     6
+
+==================================
+TP_idx =
+
+     3
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"     "3"     "4"     "7"     "8"    "11"
+    "rpt_cnt"    "1"    "12"    "37"    "15"    "11"    "7"    "1" 
+
+
+selected_subrgn =
+
+     3
+
+==================================
+TP_idx =
+
+     4
+
+
+ans = 
+
+  2×10 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "3"    "4"     "5"    "11"    "12"    "14"    "15"    "16"
+    "rpt_cnt"    "3"    "2"    "64"    "1"    "1"     "4"     "1"     "5"     "3" 
+
+
+selected_subrgn =
+
+     4
+
+==================================
+TP_idx =
+
+     5
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"    "5"     "6"    "9"     "10"    "14"
+    "rpt_cnt"    "3"    "4"    "47"    "8"    "20"    "1"     "1" 
+
+
+selected_subrgn =
+
+     5
+
+==================================
+TP_idx =
+
+     6
+
+
+ans = 
+
+  2×9 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "2"    "5"     "6"     "7"    "9"    "10"    "11"
+    "rpt_cnt"    "4"    "1"    "19"    "45"    "4"    "1"    "7"     "3" 
+
+
+selected_subrgn =
+
+     6
+
+==================================
+TP_idx =
+
+     7
+
+
+ans = 
+
+  2×6 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "3"    "6"     "7"     "10"    "11"
+    "rpt_cnt"    "2"    "12"    "33"    "5"     "32"
+
+
+selected_subrgn =
+
+     7
+
+==================================
+TP_idx =
+
+     8
+
+
+ans = 
+
+  2×7 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "4"    "8"    "11"    "12"    "15"    "16"
+    "rpt_cnt"    "3"    "6"    "1"     "58"    "3"     "13"
+
+
+selected_subrgn =
+
+    12
+
+==================================
+TP_idx =
+
+     9
+
+
+ans = 
+
+  2×8 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "5"    "9"     "10"    "11"    "13"    "14"
+    "rpt_cnt"    "1"    "3"    "37"    "23"    "1"     "16"    "3" 
+
+
+selected_subrgn =
+
+     9
+
+==================================
+TP_idx =
+
+    10
+
+
+ans = 
+
+  2×6 <a href="matlab:helpPopup string" style="font-weight:bold">string</a> array
+
+    "subrgn"     "1"    "6"     "7"    "10"    "11"
+    "rpt_cnt"    "1"    "10"    "2"    "69"    "2" 
+
+
+selected_subrgn =
+
+    10
+
+==================================err_avg = 1.532680e+01
