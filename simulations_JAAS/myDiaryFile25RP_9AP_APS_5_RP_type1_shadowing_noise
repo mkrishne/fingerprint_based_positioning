@@ -1,0 +1,28 @@
+
+L =
+
+     9
+
+
+RP_SIM_TYPE =
+
+     1
+
+
+ITRN_COUNT_MAX =
+
+    10
+
+
+RP_positions_per_row =
+
+     5
+
+
+cluster_size =
+
+     3
+
+err_avg = 3.036974e+01
+err_avg_seed = 2.696781e+01
+itrn_avg = 2.562500e+00
